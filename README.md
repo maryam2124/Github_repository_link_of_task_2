@@ -20,7 +20,7 @@ The dataset contains:
   - Virginica
 
 ### Dataset Sample Image
-![Iris Dataset](PASTE_YOUR_DATASET_IMAGE_URL_HERE)
+![Iris Dataset](https://th.bing.com/th/id/R.e302368bb7ea31160f4f65c54005458f?rik=nthlZIivbefgYw&riu=http%3a%2f%2fsebastianraschka.com%2fimages%2fblog%2f2015%2fprincipal_component_analysis_files%2firis.png&ehk=cOg2sQskjZCmOgmDWIq7hbdNDFXn824OR00s7iy1%2fmU%3d&risl=&pid=ImgRaw&r=0)
 
 ---
 
