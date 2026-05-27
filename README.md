@@ -44,14 +44,10 @@ To build a classification model that:
 ---
 
 ## Model Used
-You can mention your model here:
-
 - Logistic Regression  
-- OR K-Nearest Neighbors (KNN)  
-- OR Decision Tree  
 
 ### Model Diagram / Workflow
-![Model Workflow](PASTE_YOUR_MODEL_IMAGE_URL_HERE)
+![https://tse2.mm.bing.net/th/id/OIP.X9kMHXyGFE6-maLxfSJOPAHaFt?rs=1&pid=ImgDetMain&o=7&rm=3)
 
 ---
 
@@ -66,24 +62,34 @@ You can mention your model here:
 
 ---
 
-## Data Visualization
-
-### Sepal & Petal Analysis
-![Data Visualization](PASTE_YOUR_VISUALIZATION_IMAGE_URL_HERE)
-
----
-
 ## Model Performance
 
-- Accuracy: **(ADD YOUR ACCURACY HERE)**
+The trained model achieved strong performance on the Iris classification task.
 
-### Confusion Matrix
-![Confusion Matrix](PASTE_YOUR_CONFUSION_MATRIX_IMAGE_URL_HERE)
+- Mean Accuracy: **0.9733 (97.33%)**
+
+This indicates that the model correctly classifies Iris flower species with high reliability using the selected features.
 
 ---
 
-## Prediction Example
+## Visualization Summary
 
-```text id="iris_pred"
-Input: [5.1, 3.5, 1.4, 0.2]
-Output: Setosa
+The following visual analyses were performed to understand the dataset and model behavior:
+
+### 1. Feature Distribution Analysis
+We analyzed how sepal length, sepal width, petal length, and petal width vary across different Iris species. This helps in understanding class separability.
+
+### 2. Scatter Plot Analysis
+Pairwise feature relationships were visualized to observe clustering patterns between Setosa, Versicolor, and Virginica species.
+
+### 3. Decision Boundary Insight
+The model's classification behavior can be understood through decision regions formed in the feature space, showing how different species are separated.
+
+### 4. Confusion Matrix Interpretation
+The confusion matrix shows correct and incorrect predictions across classes, confirming that most predictions align with actual labels.
+
+---
+
+## Key Insight
+
+The model performs well because the Iris dataset has clear feature separability, especially between Setosa and the other two classes. This makes it suitable for basic supervised classification tasks.
