@@ -47,7 +47,7 @@ To build a classification model that:
 - Logistic Regression  
 
 ### Model Diagram / Workflow
-![https://tse2.mm.bing.net/th/id/OIP.X9kMHXyGFE6-maLxfSJOPAHaFt?rs=1&pid=ImgDetMain&o=7&rm=3)
+![Iris Dataset](https://miro.medium.com/v2/resize:fit:460/1*cJpAE_emjoQl4Ug-M4EXTw.jpeg)
 
 ---
 
